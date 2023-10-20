@@ -7,7 +7,7 @@ Sou um jovem desenvolvedor de software com experiência em várias linguagens de
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rdaltio@alunos.utfpr.edu.br)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/r.daltio22/)
 
-## Habilidades
+### Habilidades
     ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
     ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
     ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
